@@ -6,3 +6,5 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 - Data cleaning
 - Feature engineering
 - Modeling
+
+# Dataset used: [Titanic dataset](https://www.kaggle.com/competitions/titanic)
